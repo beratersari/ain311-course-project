@@ -24,6 +24,8 @@ To Do:
 
 
 Installation:
+
+You have to install listed libraries to run the train and eval files. Also, you have to download other necessary libraries (torch, numpy, pandas) on your own. But, the listed ones and theirs versions are important
 ```
 !pip install pytorch_lightning==0.8.1
 !pip install transformers==4.0.0rc1
