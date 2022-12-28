@@ -11,9 +11,9 @@ Done:
 
 ----> Score Calculation script added
 
-To Do:
+----> Train code is uploaded for mT5 model
 
-----> Train code will be uploaded for mT5 model
+To Do:
 
 ----> Inference code will be uploaded
 
