@@ -24,8 +24,10 @@ To Do:
 
 
 Installation:
-"""
+```
+!pip install pytorch_lightning==0.8.1
+!pip install transformers==4.0.0rc1
+!pip install -U nltk
+!pip install rouge_score
+```
 
-"""!pip install """
-
-"""
