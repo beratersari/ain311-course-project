@@ -23,7 +23,7 @@ To Do:
 
 
 
-Installation for fine-tuning mT5:
+# Installation for fine-tuning mT5:
 
 You have to install listed libraries to run the train and eval files. Also, you have to download other necessary libraries (torch, numpy, pandas) on your own. But, the listed ones and theirs versions are important
 ```
