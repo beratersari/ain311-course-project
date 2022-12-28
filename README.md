@@ -19,3 +19,13 @@ To Do:
 
 ----> A scrapper script will be uploaded to get random data from twitter. And we will test the model on non-offical language.
 
+
+
+
+
+Installation:
+"""
+
+"""!pip install """
+
+"""
