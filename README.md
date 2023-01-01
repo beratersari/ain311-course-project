@@ -58,3 +58,5 @@ If you don't want to install the librares on your local computer. Just upload th
 
 
 
+We benefited from a kaggle notebook while preparing the training code, that fine-tune the mT5 model for Hindi Language. 
+
