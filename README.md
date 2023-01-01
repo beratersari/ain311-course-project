@@ -33,3 +33,11 @@ You have to install listed libraries to run the train and eval files. Also, you 
 !pip install rouge_score
 ```
 
+# How to use the repository
+
+After the installation of the dataset. Just modify the config file. Adjust the path of your json file and get the csv data. By running following command.
+```
+python 
+```
+
+
